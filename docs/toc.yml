@@ -1,0 +1,8 @@
+- name: Getting Started
+  href: getting-started.md
+  name: Installation Guide
+  href: installation-guide.md
+  name: Docs
+  href: docs/
+- name: API
+  href: api/

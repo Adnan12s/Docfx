@@ -1,0 +1,22 @@
+{
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | DOcFxDocs",
+    "keywords": "Getting Started Welcome to the Getting Started guide for the DOcFxDocs documentation! What is this Project? This project serves as a sample documentation for an ASP.NET Core Blazor Server app. With the help of DocFX, we automatically generate API documentation and provide helpful guides for users. Requirements .NET SDK (version 5.0 or above) DocFX (installed via NuGet or manually) A basic understanding of ASP.NET Core and Blazor Installation Clone the repository: git clone https://github.com/your-repo-name Navigate to the project folder: cd DOcFx Build the project: dotnet build You're now ready to start building and running the application! Next Steps Learn how to install the project by following the Installation Guide."
+  },
+  "docs/installation-guide.html": {
+    "href": "docs/installation-guide.html",
+    "title": "Installation Guide | DOcFxDocs",
+    "keywords": "Installation Guide In this guide, we will walk you through the steps required to set up the project. Step 1: Prerequisites Before you begin, make sure you have the following installed on your machine: .NET SDK (5.0 or later) A code editor (e.g., Visual Studio Code or Visual Studio) DocFX for generating documentation Step 2: Cloning the Repository Clone the repository using the following command: git clone https://github.com/your-repo-name"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | DOcFxDocs",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | DOcFxDocs",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
